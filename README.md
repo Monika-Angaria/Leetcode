@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Monika-Angaria/Leetcode/tree/master/0013-roman-to-integer) |
 | [1406-stone-game-iii](https://github.com/Monika-Angaria/Leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Monika-Angaria/Leetcode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/Monika-Angaria/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Monika-Angaria/Leetcode/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Monika-Angaria/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
