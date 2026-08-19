@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Monika-Angaria/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Monika-Angaria/Leetcode/tree/master/0704-binary-search) |
 | [1406-stone-game-iii](https://github.com/Monika-Angaria/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Monika-Angaria/Leetcode/tree/master/3731-find-missing-elements) |
@@ -81,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Monika-Angaria/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Monika-Angaria/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
